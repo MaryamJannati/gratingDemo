@@ -1,9 +1,7 @@
 clc;
 close all;
 % ----------
-cd '/Users/nip-maryam/Documents/Studies/PhD-NIP/Winter25-25-teaching';
-addpath '/Users/nip-maryam/Documents/Studies/PhD-NIP/Experiments/stimnip-toolbox';
-
+cd '/Users/nip-maryam/Documents/';
 
     
 % -----experiment parameters-----
